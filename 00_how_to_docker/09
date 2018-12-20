@@ -1,0 +1,5 @@
+apt update
+apt upgrade -y
+apt install build-essential -y
+apt install vim -y
+apt install git-core -y
